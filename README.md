@@ -1,1 +1,2 @@
-# jpgaelzer.github.io
+# Static website, for Portfólio and social media
+
